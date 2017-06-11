@@ -6,22 +6,15 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
-<meta name="author" content="YOURNAME">
+<meta name="author" content="Zao Soula">
 
 <title><?php echo $Page->getTitle();?></title>
 
 <!-- Bootstrap Core CSS -->
 <link href="<?php echo BaseUrl?>/assets/css/bootstrap.min.css" rel="stylesheet">
 
-<!-- Custom Fonts -->
-<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
-
 <!-- Plugin CSS -->
 <link rel="stylesheet" href="<?php echo BaseUrl?>/assets/plugins/font-awesome/css/font-awesome.min.css">
-<link rel="stylesheet" href="<?php echo BaseUrl?>/assets/plugins/simple-line-icons/css/simple-line-icons.css">
-
 <!-- Theme CSS -->
 <link href="<?php echo BaseUrl?>/assets/css/main.css" rel="stylesheet">
 

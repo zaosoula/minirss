@@ -1,6 +1,6 @@
 <?php
 $Page = new Page(array(
-	'title'=>'Home - zarque/PageManager',
+	'title'=>'Home - MiniRss',
 	'assets'=>array(
 		'plugins/xml2json/xml2json.js',
 		'plugins/sortable/jquery.sortable.min.js',
